@@ -10,18 +10,19 @@ The objective is to address the following key business questions posed by the cl
 
 The project delivers a fully automated, dynamic Excel dashboard that integrates data collection, cleaning, analysis, and visualization. It is designed as a self-sufficient tool, requiring no further intervention from data professionals. Clients can immediately begin using the dashboard to make informed data-driven decisions effortlessly.
 
-. DATA CLEANING
+1.DATA CLEANING
 1.	Standardizing Formats: Ensure uniform date, time, and numeric formats for consistency.
 2.	Validating Data: Apply checks for errors, such as valid emails and proper spelling.
 3.	Removing Duplicates: Eliminate duplicate entries to maintain data integrity.
 4.	Handling Missing Values: Fill gaps using imputation, interpolation, or appropriate removal.
-________________________________________
+   
 2. DATA PROCESSING
 1.	Merging Tables: Combine datasets using keys to create a unified view of the data.
 2.	Creating Calculated Columns: Add new columns derived from formulas and logical operations.
 3.	Applying VLOOKUP: Link related data across tables to enrich the dataset with relevant information.
 4.	Filtering and Sorting: Organize data to focus on relevant subsets and insights.
-________________________________________
+
+   
 3. DATA ANALYSIS
 1.	Descriptive Statistics:
 o	Perform a comprehensive statistical summary to uncover key patterns and trends in the dataset.
